@@ -1,0 +1,23 @@
+*{
+    font-family: Arial;
+}
+
+a{
+ color: lightseagreen
+}
+
+h1,h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+body{
+    background-color : rgb(235, 127, 127)
+}
+article{
+    background-image: linear-gradient(rgb(235, 127, 127),rgb(46, 89, 141));
+}
+header{
+    color:rgb(40, 184, 98);
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+}
